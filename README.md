@@ -46,3 +46,6 @@ This was made with the intention of allowing the cRIO device to
 access the rich potential of the web browser. With BotHS, you can access and
 control your robot with any web-capable device during testing.
 The possibilities are endless!
+
+Thanks to Christian Plattner for providing a CLDC-compatible
+SHA1 library for WebSocket support.

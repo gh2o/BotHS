@@ -10,6 +10,11 @@ Features
 
 To Get Started
 --------------
+After downloading the sources via git or the ZIP file above,
+
+* Copy everything in the `src` folder into the `src` folder in your project
+* Copy everything in the `resources` folder into the `resources` folder in your project
+
 Add this somewhere in your code (preferably the constructor of your main class):
 
 	Server server = new Server ();

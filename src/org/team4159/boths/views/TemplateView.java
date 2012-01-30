@@ -36,7 +36,7 @@ public class TemplateView extends View
 	 * Gets the context variables for rendering the template.
 	 * Subclasses should override this.
 	 * 
-	 * @param req The request.
+	 * @param req The request to process.
 	 * @return A {@link Hashtable} of context variables.
 	 */
 	public Hashtable getContext (Request req)
